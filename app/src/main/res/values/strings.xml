@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">MemoPad</string>
+    <string name="memoTextview">New Memo:</string>
+    <string name="addButton">Add Memo</string>
+    <string name="deleteButton">Delete Memo</string>
 </resources>
